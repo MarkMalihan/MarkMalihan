@@ -1,4 +1,3 @@
-### Hi there 👋
 ### "This is Mark, your average young IT worker, doing his average job, living through his average days." - Me, from the future.
 
 <!--
