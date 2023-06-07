@@ -1,5 +1,5 @@
 # About Me
-### "This is Mark, your average young IT worker, doing his average job, living through his average days." - Me, from the future, I guess.
+### This is Mark, living through his average days.
 
 ## Projects
 - [Property Transfer Report](https://github.com/kganallinone/PropertyTransferReport) (Collaboration)
